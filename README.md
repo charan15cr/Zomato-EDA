@@ -3,7 +3,7 @@ Zomato EDA
 
 **Data Source**: Keggle
 
-**Environment Used for EDA**: Python (google colab), Excel
+**Environment Used for EDA**: Python (google colab) https://colab.research.google.com/drive/1nZzTwi1pyj9seJcVShHtvCWcsbPwuHa3?usp=sharing , Excel
 
 **The notebook has two datasets**:
 
